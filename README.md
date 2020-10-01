@@ -6,4 +6,4 @@ This is quite a new project and is going through frequent changes. Many pages ha
 
 We welcome the developer community to work their magic through it!
 
-P.S: This is a personal project and is quite new so the code may be very ugly so sorry for the inconviences :P
+P.S: This is a personal project and is quite new so the code may be very ugly so sorry for the inconveniences :P
